@@ -1,2 +1,5 @@
 .env
 venv
+speech.wav
+faiss_db
+chroma_db
