@@ -11,6 +11,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders import PyPDFDirectoryLoader
 
 from dotenv import load_dotenv, find_dotenv
+
 if os.path.exists('.env'):
     load_dotenv(find_dotenv('.env'))
 
