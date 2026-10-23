@@ -3,3 +3,4 @@ venv
 speech.wav
 faiss_db
 chroma_db
+__pycache__
